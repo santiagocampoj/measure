@@ -35,3 +35,5 @@ I mean, while
       else
       If we are developing apps so that we can figure out what kind of measurement we are using (blueprint):
             break
+ 
+Is there any real difference between those natural sea level marks? Can we distinguish between them? Are they looking like alike or actually they are?
