@@ -37,3 +37,7 @@ I mean, while
             break
  
 Is there any real difference between those natural sea level marks? Can we distinguish between them? Are they looking like alike or actually they are?
+
+It has something to do with Internet and us (our behavour in and out there), I can't visualize it although
+
+Think it like this: Internet is old enough 
